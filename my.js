@@ -406,3 +406,7 @@ async function sendApiRequest() {
    img.setAttribute('src', imhPath);
    document.getElementById('gif').appendChild(img);        
 }
+
+
+
+console.log('my first git change')
